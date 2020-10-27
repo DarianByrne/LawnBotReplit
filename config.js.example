@@ -1,0 +1,16 @@
+module.exports = {
+  token: process.env.TOKEN,
+  prefix: process.env.PREFIX,
+  ownerID: ["100000000000000000"],
+  beta: false,
+  readyChannel: "100000000000000000",
+  embedColor: "#55aa55",
+  embedColorPositive: "#5555ff",
+  embedColorNegative: "#ff5555",
+  embedFooter: "© Darian Byrne",
+  freeGameRole: "100000000000000000",
+  freeGameMessage: "<@&" + "100000000000000000" + "> on https://epic.gm/free-games",
+  freeGameChannelID: "100000000000000000",
+  colorRoleName: "Colour",
+  colorRoleId: "100000000000000000"
+};
